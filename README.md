@@ -1,4 +1,4 @@
 # EasyAnonChat
-Easy public anonymous chat on PHP, JS & JSON.
+Easy public anonymous web chat on PHP, JS & JSON.
 
 While in development!
